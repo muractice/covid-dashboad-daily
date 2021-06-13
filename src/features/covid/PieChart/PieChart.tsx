@@ -12,6 +12,7 @@ const PieChart:React.FC = () => {
 
     const pieChart = daily[0] && (
         <Doughnut 
+            type
             data = {{
                 labels: ['Infected','Recovered','Deaths'],
                 datasets: [
