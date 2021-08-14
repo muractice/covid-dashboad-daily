@@ -30,7 +30,7 @@ const SwitchCountry:React.FC = () => {
         "taiwan",
         "thailand",
         "new zealand",
-        "sween",
+        "sweden",
         "india",
     ]
     
